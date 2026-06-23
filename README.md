@@ -93,6 +93,6 @@ My goal is to become a software engineer who builds reliable and practical softw
 
 **Name:** Totaram Sarangani
 
-**GitHub:** saranganitotaram
+**GitHub:** totaramsarangani
 
-**Email:** saranganitotaram2545@gmail.com
+**Email:** totaramrathore24@gmail.com
